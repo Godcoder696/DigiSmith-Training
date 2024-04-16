@@ -1,0 +1,13 @@
+body{
+    min-height: 100%;
+    background-color: black;
+}
+
+.circle{
+    margin-left: 10vh;
+    margin-top: 20%;
+    min-height: 20vh;
+    width: 20vh;
+    border-radius: 50%;
+    background-color: rgb(234, 36, 36);
+}

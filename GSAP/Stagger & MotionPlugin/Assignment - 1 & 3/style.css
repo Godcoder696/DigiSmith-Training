@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    min-height: 100vh;
+    background: #242424;
+}
+.box{
+    min-height: 10vh;
+    width: 10vh;
+    background-color: purple;
+    border-radius: 10%;
+}

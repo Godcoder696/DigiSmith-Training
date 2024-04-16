@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    min-height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+.wrap{
+    min-height: 100vh;
+}
+.circle{
+    background-color: red;
+    height: 15vh;
+    width: 15vh;
+    border-radius: 50%;
+}
+.circle1{
+    background-color: yellow;
+}
+.circle3{
+    background-color: green;
+}
